@@ -4,7 +4,7 @@
 
 ### Quand aura lieu le prochain meetup ?
 
-Nous postons les annonces sur la mailing list [ocaml-toulouse@groupes.renater.fr](ocaml-toulouse@groupes.renater.fr), abonnez-vous !
+Nous postons les annonces sur la mailing list [ocaml-toulouse@groupes.renater.fr](https://groupes.renater.fr/sympa/info/ocaml-toulouse), abonnez-vous !
 
 ### Où ont lieu les meetups ?
 
